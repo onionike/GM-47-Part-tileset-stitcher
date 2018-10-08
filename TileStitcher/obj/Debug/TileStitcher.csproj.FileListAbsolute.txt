@@ -1,0 +1,10 @@
+C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\bin\Debug\TileStitcher.exe.config
+C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\bin\Debug\TileStitcher.exe
+C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\bin\Debug\TileStitcher.pdb
+C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\obj\Debug\TileStitcher.csprojAssemblyReference.cache
+C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\obj\Debug\TileStitcher.Form1.resources
+C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\obj\Debug\TileStitcher.Properties.Resources.resources
+C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\obj\Debug\TileStitcher.csproj.GenerateResource.cache
+C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\obj\Debug\TileStitcher.csproj.CoreCompileInputs.cache
+C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\obj\Debug\TileStitcher.exe
+C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\obj\Debug\TileStitcher.pdb
