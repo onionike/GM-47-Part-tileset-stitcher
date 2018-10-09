@@ -303,7 +303,7 @@ namespace TileStitcher
         {
         }
 
-        private void StitchSelectedTilesets_Click(object sender, EventArgs e)
+        private void StitchSelectedTilesets_Click_1(object sender, EventArgs e)
         {
             DialogResult dr = this.folderBrowserDialog1.ShowDialog();
             if (dr == System.Windows.Forms.DialogResult.OK)

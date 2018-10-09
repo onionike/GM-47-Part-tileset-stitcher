@@ -34,6 +34,7 @@
             this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.StitchSelectedTilesets = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.LoadTilesets = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
@@ -48,7 +49,6 @@
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.StitchSelectedTilesets = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.finalTileWidth)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.finalTileHeight)).BeginInit();
@@ -103,6 +103,18 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(324, 434);
             this.tableLayoutPanel1.TabIndex = 0;
+            // 
+            // StitchSelectedTilesets
+            // 
+            this.tableLayoutPanel1.SetColumnSpan(this.StitchSelectedTilesets, 2);
+            this.StitchSelectedTilesets.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.StitchSelectedTilesets.Location = new System.Drawing.Point(3, 360);
+            this.StitchSelectedTilesets.Name = "StitchSelectedTilesets";
+            this.StitchSelectedTilesets.Size = new System.Drawing.Size(318, 71);
+            this.StitchSelectedTilesets.TabIndex = 9;
+            this.StitchSelectedTilesets.Text = "Stitch Selected Tilesets";
+            this.StitchSelectedTilesets.UseVisualStyleBackColor = true;
+            this.StitchSelectedTilesets.Click += new System.EventHandler(this.StitchSelectedTilesets_Click_1);
             // 
             // label5
             // 
@@ -301,17 +313,6 @@
             this.label4.Size = new System.Drawing.Size(245, 37);
             this.label4.TabIndex = 14;
             this.label4.Text = "Layout Example";
-            // 
-            // StitchSelectedTilesets
-            // 
-            this.tableLayoutPanel1.SetColumnSpan(this.StitchSelectedTilesets, 2);
-            this.StitchSelectedTilesets.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.StitchSelectedTilesets.Location = new System.Drawing.Point(3, 360);
-            this.StitchSelectedTilesets.Name = "StitchSelectedTilesets";
-            this.StitchSelectedTilesets.Size = new System.Drawing.Size(318, 71);
-            this.StitchSelectedTilesets.TabIndex = 9;
-            this.StitchSelectedTilesets.Text = "Stitch Selected Tilesets";
-            this.StitchSelectedTilesets.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
