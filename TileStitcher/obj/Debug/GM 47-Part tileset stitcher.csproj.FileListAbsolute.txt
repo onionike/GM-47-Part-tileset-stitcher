@@ -1,7 +1,6 @@
 C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\bin\Debug\GM 47-Part tile stitcher.exe.config
 C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\bin\Debug\GM 47-Part tile stitcher.exe
 C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\bin\Debug\GM 47-Part tile stitcher.pdb
-C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\obj\Debug\GM 47-Part tileset stitcher.csprojAssemblyReference.cache
 C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\obj\Debug\TileStitcher.Form1.resources
 C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\obj\Debug\TileStitcher.Properties.Resources.resources
 C:\Users\JOEY-GAMING\source\repos\TileStitcher\TileStitcher\obj\Debug\GM 47-Part tileset stitcher.csproj.GenerateResource.cache
