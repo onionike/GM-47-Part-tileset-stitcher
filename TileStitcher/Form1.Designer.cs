@@ -47,8 +47,8 @@
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.finalTileWidth)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.finalTileHeight)).BeginInit();
@@ -291,18 +291,6 @@
             this.tableLayoutPanel2.Size = new System.Drawing.Size(325, 434);
             this.tableLayoutPanel2.TabIndex = 12;
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox1.Image = global::TileStitcher.Properties.Resources._64x64_pixel_pre_tileset_template_new_example;
-            this.pictureBox1.InitialImage = null;
-            this.pictureBox1.Location = new System.Drawing.Point(3, 53);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(319, 378);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 13;
-            this.pictureBox1.TabStop = false;
-            // 
             // label4
             // 
             this.label4.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
@@ -313,6 +301,20 @@
             this.label4.Size = new System.Drawing.Size(245, 37);
             this.label4.TabIndex = 14;
             this.label4.Text = "Layout Example";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox1.ErrorImage = null;
+            this.pictureBox1.Image = global::TileStitcher.Properties.Resources.GrassOnCobble_Tileset___Copy;
+            this.pictureBox1.InitialImage = global::TileStitcher.Properties.Resources.GrassOnCobble_Tileset___Copy;
+            this.pictureBox1.Location = new System.Drawing.Point(3, 53);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(319, 378);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 13;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // Form1
             // 

@@ -63,19 +63,9 @@ namespace TileStitcher.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _64x64_pixel_pre_tileset_template_example {
+        internal static System.Drawing.Bitmap GrassOnCobble_Tileset___Copy {
             get {
-                object obj = ResourceManager.GetObject("64x64 pixel pre-tileset template example", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _64x64_pixel_pre_tileset_template_new_example {
-            get {
-                object obj = ResourceManager.GetObject("64x64 pixel pre-tileset template new example", resourceCulture);
+                object obj = ResourceManager.GetObject("GrassOnCobble-Tileset - Copy", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
